@@ -8,36 +8,36 @@
 
     let imagesjson = [
         {
-            image: "../src/img/pokemon/pikachu_528098.png",
+            image: "/pokemon/pikachu_528098.png",
             name: "Pikachu",
             type: "Electric",
             gradient: "bg-gradient-to-t from-yellow-400 to-yellow-100"
         },
         {
-            image: "../src/img/pokemon/avatar_1752713.png",
+            image: "/pokemon/avatar_1752713.png",
             name: "Jigglypuff",
             type: " Normal · Fairy",
             gradient: "bg-gradient-to-t from-pink-400 to-pink-100"
         },
         {
-            image: "../src/img/pokemon/avatar_1752813.png",
+            image: "/pokemon/avatar_1752813.png",
             name: "Snorlax",
             type: "Normal",
             gradient: "bg-gradient-to-t from-blue-400 to-blue-100"
         },{
-            image: "../src/img/pokemon/meoth.png",
+            image: "/pokemon/meoth.png",
             name: "Meowth",
             type: "Normal",
             gradient: "bg-gradient-to-t from-yellow-400 to-yellow-100"
         },
         {
-            image: "../src/img/pokemon/avatar.png",
+            image: "/pokemon/avatar.png",
             name: "Ditto",
             type: "Normal",
             gradient: "bg-gradient-to-t from-pink-400 to-pink-100"
         },
         {
-            image: "../src/img/pokemon/rattata.png",
+            image: "/pokemon/rattata.png",
             name: "Rattata",
             type: "Dark · Normal",
             gradient: "bg-gradient-to-t from-purple-400 to-purple-100"
