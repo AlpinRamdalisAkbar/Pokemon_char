@@ -2,7 +2,7 @@
     import Menu from "../menu.svelte";
 
     let {headerName = "Pokemon"} = $props(); 
-    let logo = "../src/img/pokemon/pokemon-go.png"
+    let logo = "/pokemon/pokemon-go.png"
 </script>
 
 <nav class="flex items-start justify-between p-2.5 ">
