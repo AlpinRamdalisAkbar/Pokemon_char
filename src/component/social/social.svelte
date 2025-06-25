@@ -12,10 +12,5 @@
 
 <style lang="postcss">
     @reference "tailwindcss";
-    
-    .ubuntu-light {
-        font-family: "Ubuntu", sans-serif;
-        font-weight: 500;
-        font-style: normal;
-    }
+
 </style>
